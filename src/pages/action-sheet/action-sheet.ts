@@ -2,7 +2,7 @@ import { ActionSheetController } from 'ionic-angular';
 import { Component } from '@angular/core';
 @Component(
   {
-    selecttor: 'page-action-sheet',
+    selector: 'page-action-sheet',
     templateUrl: 'action-sheet.html'
   }
 )
